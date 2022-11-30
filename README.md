@@ -102,7 +102,8 @@ Resources:
 - SciPy documentation (Scipy.interpolate.CubicSpline):
   https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.CubicSpline.html
 
+---
 
-
+if you want to check the original version, please click the link in the code which link to college github account 
 
 
